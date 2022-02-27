@@ -38,9 +38,13 @@ public class SignInTest extends base {
 		l.password().sendKeys(password);
 		log.info("Input password");
 		System.out.println(text);
-		
-		
 	}
+	
+	@Test()
+		public void printSign() {
+			System.out.println("gitHub Demo");
+		}
+	
 	
 	@AfterTest
 	public void terminate() {
