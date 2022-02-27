@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+<listeners>
+<listener class-name="Group.E2EProject.Listeners"/>
+</listeners>
+
+  <test name="Validating the Title">
+    <classes>
+      <class name="Group.E2EProject.ValidateTitleTest"/>
+       <class name="Group.E2EProject.ValidateHeaderTest"/>
+       <class name="Group.E2EProject.SignInTest"/>
+      </classes>
+      </test>
+</suite> <!-- Suite -->

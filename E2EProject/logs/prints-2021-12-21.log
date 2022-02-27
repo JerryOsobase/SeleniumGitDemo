@@ -1,0 +1,8 @@
+10:38:56.287 [main] DEBUG io.netty.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0xc77518986aa47c18
+10:39:09.392 [main] INFO  resources.base - Initialize browser
+10:39:18.533 [main] INFO  resources.base - Navigated to the URL
+10:39:21.544 [main] INFO  resources.base - Click on the Login link
+10:39:21.831 [main] INFO  resources.base - Input email address
+10:39:22.017 [main] INFO  resources.base - Input password
+10:39:25.289 [main] INFO  resources.base - Navigated to the URL
+10:39:26.794 [main] INFO  resources.base - Click on the Login link
