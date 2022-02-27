@@ -9,6 +9,7 @@ public class Test1 {
 		System.out.println("Chrome automation");
 		System.out.println("IE automation");
 		System.out.println("Safari automation");
+		System.out.println("OperaMini automation");
 		
 	}
 	public void mobileAutomation() {
